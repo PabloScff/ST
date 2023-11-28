@@ -245,7 +245,7 @@ main {
   transition: opacity 0.3s ease-out;
 }
 .card p {
-  inset: auto auto 80px 30px;
+  inset: auto auto 70px 30px;
 }
 .card a {
   inset: auto auto 40px 30px;
